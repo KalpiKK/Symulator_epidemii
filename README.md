@@ -17,3 +17,7 @@ możliwość wpłynięcia na jej czas trwania i wielkość zajmowanego obszaru.
 - uruchomienie programu: 
 - możliwość wyboru 2 opcji: 0 - koniec programu; 1 - wczytanie poprzedniego stanu zapisu; 2 - nowe rozpoczęcie programu
 - dane w programie przechowywane w strukturach
+
+3. Opis szczególowy:
+- użycie biblioteki NetworkX
+- przedstawienie epidemi w formie sieci
