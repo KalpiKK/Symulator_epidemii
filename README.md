@@ -23,4 +23,4 @@
 - użycie biblioteki NetworkX
 - przedstawienie epidemii w formie sieci
 - informowanie użytkownika o błędach
-- odporny na błędy popełniane przez użytkownika, poprzez informowanie o prawidłowego sposobu użycia programu.
+- odporny na błędy popełniane przez użytkownika, poprzez informowanie o prawidłowym sposobie użycia programu.
