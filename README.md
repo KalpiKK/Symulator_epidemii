@@ -20,7 +20,7 @@
 
 # **3. Opis szczególowy:**
 
-- użycie biblioteki NetworkX
+- użycie bibliotek NetworkX i matplotlib
 - przedstawienie epidemii w formie sieci
 - informowanie użytkownika o błędach
 - odporny na błędy popełniane przez użytkownika, poprzez informowanie o prawidłowym sposobie użycia programu.
