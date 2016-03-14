@@ -13,6 +13,7 @@
 - Program umożliwia: 
 - - obserwację rozprzestrzeniania się epidemii,
 - - możliwość wpłynięcia na jej czas trwania i wielkość zajmowanego obszaru.
+- - generowanie losowej epidemii
 - dane przekazane przez użytkownika przy pomocy linii komend
 - uruchomienie programu: 
 - możliwość wyboru 2 opcji: 0 - koniec programu; 1 - wczytanie poprzedniego stanu zapisu; 2 - nowe rozpoczęcie programu
