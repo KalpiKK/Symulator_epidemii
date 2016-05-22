@@ -115,7 +115,7 @@ def graf():
     images=[]
     for nazwa in nazwy:
         images.append(imageio.imread(nazwa))
-    imageio.mimsave('test.gif', images, duration=4, fps=10)
+    imageio.mimsave('test.gif', images, duration=2, fps=100)
 
 
 
