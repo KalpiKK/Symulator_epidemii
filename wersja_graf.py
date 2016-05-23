@@ -97,6 +97,7 @@ def graf():
             else:
                 continue
 
+        plot.axis('off')
         nx.draw_networkx_edges(graf,pos,edge_color='k')
         nx.draw_networkx_nodes(graf, pos, **options_2)
         nx.draw_networkx_nodes(graf, pos, nodelist=i,label=len(i), **options_i)
