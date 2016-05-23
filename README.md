@@ -16,12 +16,11 @@
 - - generowanie losowej epidemii
 - dane przekazane przez użytkownika przy pomocy linii komend
 - uruchomienie programu: 
-- możliwość wyboru 2 opcji: 0 - koniec programu; 1 - wczytanie poprzedniego stanu zapisu; 2 - nowe rozpoczęcie programu
-- dane w programie przechowywane w strukturach
+- możliwość wyboru 2 opcji: graf, wykres
 
 # **3. Opis szczególowy:**
 
-- użycie bibliotek NetworkX, matplotlib, SciPy
+- użycie bibliotek NetworkX, matplotlib, SciPy, imageio
 - przedstawienie epidemii w formie sieci
 - informowanie użytkownika o błędach
 - odporny na błędy popełniane przez użytkownika, poprzez informowanie o prawidłowym sposobie użycia programu.
