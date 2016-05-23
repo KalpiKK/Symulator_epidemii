@@ -50,7 +50,7 @@ def wykres():
     u0 = nu.array([N-x, x, 0.0])
 
     # krok czasu
-    t = nu.linspace(0, czas, czas * 0.05)
+    t = nu.linspace(0, czas, czas*100)
 
     #ODE dy/dt = func(y, t0, ...) -> odeint(func,y0,t), rozwiazuje rownanie rozniczkowe modelu SIR
     u = odeint(funkcja, u0, t)
